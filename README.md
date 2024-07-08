@@ -44,7 +44,7 @@ Aller dans le répertoire du front-end : cd front_end
 
 Installer les dépendances : npm install
 
-Démarrer le serveur de développement React : npm start
+Démarrer le serveur de développement React : npm run dev
 
 Utilisation
 
